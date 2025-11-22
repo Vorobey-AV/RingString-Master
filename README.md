@@ -1,7 +1,6 @@
 ```markdown
-[![Скачать последнюю версию](https://img.shields.io/badge/Скачать-v2.0-brightgreen.svg?style=for-the-badge&logo=github)]([https://github.com/Vorobey-AV](https://github.com/Vorobey-AV/RingString-Master/RingString-Master/releases/download/v2.0/RingString.Master.v2.0.zip)
+[![Скачать последнюю версию](https://img.shields.io/badge/Скачать-v2.0-brightgreen.svg?style=for-the-badge&logo=github)]([https://github.com/Vorobey-AV](https://github.com/Vorobey-AV/RingString-Master/releases/download/V2.0/RingString.Master.zip)
 
-[![Скачать последнюю версию](https://img.shields.io/badge/Скачать-v2.0-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Vorobey-AV/RingString-Master/releases/download/v2.0/RingString.Master.v2.0.zip)
 
 # RingString Master v2.0
 
