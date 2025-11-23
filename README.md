@@ -1,6 +1,7 @@
 ```markdown
 [![Скачать последнюю версию](https://img.shields.io/badge/Скачать-v2.0-brightgreen?style=for-the-badge&logo=github)](https://github.com/Vorobey-AV/RingString-Master/releases/download/v2.0/RingString.Master.v2.0.zip)
 
+
 # RingString Master v2.0
 
 Самая удобная и качественная программа для создания стринг-арта из фото в 2025 году!
